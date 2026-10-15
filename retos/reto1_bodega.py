@@ -39,7 +39,7 @@ while True:
     print("3.Consultar tope")
     print("4.Mostrar pila")
     print("5.Salir")
-    opción = input(f"\nElige una opción: ")
+    opción = input("\nElige una opción: ")
     if opción == "1":
         apilar()
     elif opción == "2":
